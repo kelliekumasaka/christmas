@@ -1,8 +1,9 @@
 import React from "react";
+import "./Home.css"
 
 function Home(){
     return (
-        <h1>welcome to the actual home page!!!</h1>
+        <h1>Welcome to the Official Kumasaka site!</h1>
     )
 };
 
