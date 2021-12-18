@@ -5,7 +5,7 @@ function Letter (){
     return(
         <div id="hello">
             <p>
-                Welcome to first ever Kumasaka *online* newsletter!! Built by yours truly, the Kumasaka's are officially welcoming in the online era. I hope it wasn't too hard to scan the QR code or type in the website, but from now on, our newsletters will be hosted on this site so be sure to write it down, bookmark it, check this website as "Important"! Moving on to our actual yearly updates, 2021 has been a year of constant adjustment and seemingly endless new regulations, but despite that, we were able to go to Hawaii and Portland a couple of times for family trips. Now let's see what the individual members of the family were up to!
+                Welcome to first ever Kumasaka *online* newsletter!! Built by yours truly, the Kumasaka's are officially welcoming in the online era. I hope it wasn't too hard to scan the QR code or type in the website, but from now on, our newsletters will be hosted on this site so be sure to write it down, bookmark it, check this website as "Important"! For our family, 2021 was pretty rough. In the midst of COVID, we lost our grandpa <a href="https://www.dignitymemorial.com/obituaries/seattle-wa/yukio-kumasaka-10230018?utm_source=obit_alerts&utm_medium=email&utm_campaign=obit_detail&utm_content=view_updates_button">Yukio Kumasaka</a> and were unable to have a funeral for him. However, we are so blessed to have been able to spend the months prior with him, family gatherings almost every day, and take joy in knowing he is with our Lord and Savior. As we move into 2022, we take time to reflect on this past year and remember our notable memories.
             </p>
             <h3>Dubbie:</h3>
             <p>
