@@ -20,7 +20,7 @@ ReactDOM.render(
   <React.StrictMode>
     <div style={{ background: "#282c34" }}>
       <Snowfall
-        snowflakeCount={75}
+        snowflakeCount={50}
         style={{
           position: "fixed",
           width: "100%",
@@ -30,7 +30,7 @@ ReactDOM.render(
         wind={[-0.5,1.0]}
       />
       <Snowfall
-        snowflakeCount={3}
+        snowflakeCount={1}
         style={{
           position: "fixed",
           width: "100%",
