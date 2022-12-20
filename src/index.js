@@ -12,7 +12,7 @@ import dub3 from "./images/final.png"
 const snowflake3 = document.createElement("img");
 snowflake3.src = dub3;
 
-const images = [ snowflake3];
+const images = [snowflake3];
 
 UIkit.use(Icons);
 
@@ -20,7 +20,7 @@ ReactDOM.render(
   <React.StrictMode>
     <div style={{ background: "#282c34" }}>
       <Snowfall
-        snowflakeCount={50}
+        snowflakeCount={20}
         style={{
           position: "fixed",
           width: "100%",
