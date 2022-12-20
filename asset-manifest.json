@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/christmas/static/css/main.c7734fad.chunk.css",
-    "main.js": "/christmas/static/js/main.77c34904.chunk.js",
-    "main.js.map": "/christmas/static/js/main.77c34904.chunk.js.map",
+    "main.js": "/christmas/static/js/main.207be6db.chunk.js",
+    "main.js.map": "/christmas/static/js/main.207be6db.chunk.js.map",
     "runtime-main.js": "/christmas/static/js/runtime-main.139b13de.js",
     "runtime-main.js.map": "/christmas/static/js/runtime-main.139b13de.js.map",
     "static/css/2.8a29eb35.chunk.css": "/christmas/static/css/2.8a29eb35.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.8a29eb35.chunk.css",
     "static/js/2.06d1f48a.chunk.js",
     "static/css/main.c7734fad.chunk.css",
-    "static/js/main.77c34904.chunk.js"
+    "static/js/main.207be6db.chunk.js"
   ]
 }
