@@ -21,9 +21,14 @@ ReactDOM.render(
     <div style={{ background: "#282c34" }}>
       <Snowfall
         snowflakeCount={200}
+        style={{
+          position: "fixed",
+          width: "100%",
+          height: "100%",
+        }}
       />
       <Snowfall
-        snowflakeCount={10}
+        snowflakeCount={5}
         style={{
           position: "fixed",
           width: "100%",
