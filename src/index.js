@@ -26,6 +26,8 @@ ReactDOM.render(
           width: "100%",
           height: "100%",
         }}
+        speed={[0.1, 0.3]}
+        wind={[-0.5,1.0]}
       />
       <Snowfall
         snowflakeCount={3}
@@ -36,6 +38,8 @@ ReactDOM.render(
         }}
         images={images}
         radius={[20.0, 30.0]}
+        speed={[0.1, 0.3]}
+        wind={[-0.5,1.0]}
       />
       <App />
     </div>
