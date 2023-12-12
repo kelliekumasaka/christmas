@@ -47,7 +47,7 @@ function Letter() {
         job entails other than sitting in front of a computer from 8am-5pm and making sure her
         website doesn’t crash?...
       </p>
-      <h3>TOW TOW:</h3>
+      <h3>LTK:</h3>
       <p>
         Well, as for your humble author not a lot has changed…I could pretty much just copy and
         paste from last year’s letter, but since you all skipped the first half of this letter to jump down
