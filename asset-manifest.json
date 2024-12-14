@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/christmas/static/css/main.289b3169.chunk.css",
-    "main.js": "/christmas/static/js/main.22995a04.chunk.js",
-    "main.js.map": "/christmas/static/js/main.22995a04.chunk.js.map",
+    "main.js": "/christmas/static/js/main.610cf813.chunk.js",
+    "main.js.map": "/christmas/static/js/main.610cf813.chunk.js.map",
     "runtime-main.js": "/christmas/static/js/runtime-main.139b13de.js",
     "runtime-main.js.map": "/christmas/static/js/runtime-main.139b13de.js.map",
     "static/css/2.8a29eb35.chunk.css": "/christmas/static/css/2.8a29eb35.chunk.css",
-    "static/js/2.052cd68b.chunk.js": "/christmas/static/js/2.052cd68b.chunk.js",
-    "static/js/2.052cd68b.chunk.js.map": "/christmas/static/js/2.052cd68b.chunk.js.map",
+    "static/js/2.b2dea3c0.chunk.js": "/christmas/static/js/2.b2dea3c0.chunk.js",
+    "static/js/2.b2dea3c0.chunk.js.map": "/christmas/static/js/2.b2dea3c0.chunk.js.map",
     "index.html": "/christmas/index.html",
     "static/css/2.8a29eb35.chunk.css.map": "/christmas/static/css/2.8a29eb35.chunk.css.map",
     "static/css/main.289b3169.chunk.css.map": "/christmas/static/css/main.289b3169.chunk.css.map",
-    "static/js/2.052cd68b.chunk.js.LICENSE.txt": "/christmas/static/js/2.052cd68b.chunk.js.LICENSE.txt",
+    "static/js/2.b2dea3c0.chunk.js.LICENSE.txt": "/christmas/static/js/2.b2dea3c0.chunk.js.LICENSE.txt",
     "static/media/final.bd76b184.png": "/christmas/static/media/final.bd76b184.png"
   },
   "entrypoints": [
     "static/js/runtime-main.139b13de.js",
     "static/css/2.8a29eb35.chunk.css",
-    "static/js/2.052cd68b.chunk.js",
+    "static/js/2.b2dea3c0.chunk.js",
     "static/css/main.289b3169.chunk.css",
-    "static/js/main.22995a04.chunk.js"
+    "static/js/main.610cf813.chunk.js"
   ]
 }
